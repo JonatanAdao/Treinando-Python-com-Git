@@ -16,7 +16,7 @@ for pessoa in range(1, 5):
             maior = peso
         if peso < menor:
             menor = peso
-           
+
 print(f'O maior peso é de {maior} kg.' )
-print(f'O menor peso é de {menor} Kg' )
+print(f'O menor peso é de {menor} Kg.' )
 
