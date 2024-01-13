@@ -1,3 +1,4 @@
-Comitando novos arquivos 
-Subindo o 55 exercicío de python. 
-Adcionando exercicío 056
+-   Comitando novos arquivos.
+-   Subindo o 55 exercicío de python. 
+-   Adcionando exercicío 056.
+-   Conclusão de exercicío 056. Adcionando no README.md
