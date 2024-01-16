@@ -2,3 +2,8 @@
 -   Subindo o 55 exercicío de python. 
 -   Adcionando exercicío 056.
 -   Conclusão de exercicío 056. Adcionando no README.md
+-   Remoção de arquivos que não faziam parte deste repositorio
+    -   launch.json
+    -   settings.json
+    -   adivinha.py
+    -   janela01.py
