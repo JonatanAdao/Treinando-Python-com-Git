@@ -8,3 +8,4 @@
     -   adivinha.py
     -   janela01.py
 -   Iniciando arquivo ex057.py. Validação de dados:
+ 
