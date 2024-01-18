@@ -9,5 +9,5 @@
     -   janela01.py
 -   Iniciando arquivo ex057.py. Validação de dados:
     -   Execução do aquivo ex057.py concluida. Neste arquivo esta conceito de avaliação de dados.
-    
+-   Dando inicio ao Arquivo ex058.py.
  
