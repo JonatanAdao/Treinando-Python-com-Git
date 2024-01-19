@@ -11,5 +11,7 @@
     -   Execução do aquivo ex057.py concluida. Neste arquivo esta conceito de avaliação de dados.
 -   Dando inicio ao Arquivo ex058.py.
     -   Foi feita neste aquivo a melhoria do arquivo ex028.py.
-    -   Foi adcionado contador para o jogador saber quantas jogadas foram feita. 
+    -   Foi adcionado contador para o jogador saber quantas jogadas foram feita.
+    -   Adcionando limete de parada ao ex058.py
+     
  
