@@ -10,4 +10,6 @@
 -   Iniciando arquivo ex057.py. Validação de dados:
     -   Execução do aquivo ex057.py concluida. Neste arquivo esta conceito de avaliação de dados.
 -   Dando inicio ao Arquivo ex058.py.
+    -   Foi feita neste aquivo a melhoria do arquivo ex028.py.
+    -   Foi adcionado contador para o jogador saber quantas jogadas foram feita. 
  
