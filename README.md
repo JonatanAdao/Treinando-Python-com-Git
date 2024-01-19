@@ -13,5 +13,7 @@
     -   Foi feita neste aquivo a melhoria do arquivo ex028.py.
     -   Foi adcionado contador para o jogador saber quantas jogadas foram feita.
     -   Adcionando limete de parada ao ex058.py
-     
+    -   Conclusão de arquivo ex0585.py
+-   Iniciando arquivo ex059.py e commiotando no README.md.
+
  
