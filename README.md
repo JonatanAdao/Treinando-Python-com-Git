@@ -15,5 +15,6 @@
     -   Adcionando limete de parada ao ex058.py
     -   Conclusão de arquivo ex0585.py
 -   Iniciando arquivo ex059.py e commiotando no README.md.
-
+    -   Criando MENU com opções de soma, mutiplicação, indicador de numeros maior, opção de escolher novos numeros e opção de finalização de ações.
+    -   Arquivo ex059.py finalizado.
  
