@@ -17,4 +17,7 @@
 -   Iniciando arquivo ex059.py e commiotando no README.md.
     -   Criando MENU com opções de soma, mutiplicação, indicador de numeros maior, opção de escolher novos numeros e opção de finalização de ações.
     -   Arquivo ex059.py finalizado.
+-   Iniciando arquivo ex060.py, ex060_v2.py e adcionado ao README.md.
+    -   Neste arquivo foi criado um script onde é calculado o fatorial de um numero.
+    -   Existindo 2 versões sendo uma com WHILE e outra em FOR, onde as duas dão o mesmo resultado.
  
