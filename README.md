@@ -3,6 +3,7 @@
 -   Adcionando exercicío 056.
 -   Conclusão de exercicío 056. Adcionando no README.md
 -   Remoção de arquivos que não faziam parte deste repositorio
+
     -   launch.json
     -   settings.json
     -   adivinha.py
@@ -20,4 +21,9 @@
 -   Iniciando arquivo ex060.py, ex060_v2.py e adcionado ao README.md.
     -   Neste arquivo foi criado um script onde é calculado o fatorial de um numero.
     -   Existindo 2 versões sendo uma com WHILE e outra em FOR, onde as duas dão o mesmo resultado.
- 
+    -   Finalizando arquivo 060.py.
+-   Dando iniciação ao arquivo ex061.py.
+    -   Criando um gerador de PA (Progreção Aritimetica)
+-   Criação do arquivo ex062.py é uma melhoria do arquivo ex061.py 
+    -   adcionando opçoes de mais termos e contagem de todos os termos.
+    
