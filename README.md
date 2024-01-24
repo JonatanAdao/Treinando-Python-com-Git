@@ -26,4 +26,7 @@
     -   Criando um gerador de PA (Progreção Aritimetica)
 -   Criação do arquivo ex062.py é uma melhoria do arquivo ex061.py 
     -   adcionando opçoes de mais termos e contagem de todos os termos.
+-   Arquivo ex063.py, Sequência de Fibonacci.
+    -   Gera uma sequência de fibonacci ate o termo desejado.
+    
     
