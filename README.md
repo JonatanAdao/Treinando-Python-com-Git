@@ -28,5 +28,9 @@
     -   adcionando opçoes de mais termos e contagem de todos os termos.
 -   Arquivo ex063.py, Sequência de Fibonacci.
     -   Gera uma sequência de fibonacci ate o termo desejado.
-    
+-   Adcionando arquivo ex064.py e ex065.py.
+    -   Onde o arquivo ex064.py esta fazendo tratamento de Valores.
+    -   Arquivo ex065.py mostre a média entre todos os valores.
+    -   Qual foi o maior e o menor valores lidos.
+    -   O programa perguntar ao usuário se ele quer ou não continuar a digitar valores.
     
