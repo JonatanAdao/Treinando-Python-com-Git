@@ -37,3 +37,7 @@
     -   Programa vai ler um número inteiro.
     -   Condição de parada é 999.
     -   No fim programa mostra quantos números foram digitados e o total geral. 
+-   Criação do Arquivo ex067.py.
+    -   Programa mostra tabuada de varios números.
+    -   Programa encerra quando o usuario coloca um número negativo.
+-   
