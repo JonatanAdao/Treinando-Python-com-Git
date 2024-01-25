@@ -33,4 +33,7 @@
     -   Arquivo ex065.py mostre a média entre todos os valores.
     -   Qual foi o maior e o menor valores lidos.
     -   O programa perguntar ao usuário se ele quer ou não continuar a digitar valores.
-    
+-   Iniciando criação de ex066.py.
+    -   Programa vai ler um número inteiro.
+    -   Condição de parada é 999.
+    -   No fim programa mostra quantos números foram digitados e o total geral. 
