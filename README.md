@@ -40,4 +40,7 @@
 -   Criação do Arquivo ex067.py.
     -   Programa mostra tabuada de varios números.
     -   Programa encerra quando o usuario coloca um número negativo.
--   
+-   Adcionando arquivo ex068.py.
+    -   Arquivo se trata de um jogo de PAR ou IMPAR.
+    -   Onde so se encerra quando o jogador perde.
+    
