@@ -43,4 +43,9 @@
 -   Adcionando arquivo ex068.py.
     -   Arquivo se trata de um jogo de PAR ou IMPAR.
     -   Onde so se encerra quando o jogador perde.
+-   Dando inicio ao arquivo ex069.py.
+    -   Analisando dados do grupo. 
+    -   Dizendo quantos maiores foram cadastrado.
+    -   Quantas foram mulheres menores foram cadastrada.
+    -   E Quantidade geral, Arquivo finalizado. 
     
