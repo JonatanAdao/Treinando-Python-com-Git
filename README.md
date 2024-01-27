@@ -47,5 +47,9 @@
     -   Analisando dados do grupo. 
     -   Dizendo quantos maiores foram cadastrado.
     -   Quantas foram mulheres menores foram cadastrada.
-    -   E Quantidade geral, Arquivo finalizado. 
+    -   E Quantidade geral, Arquivo finalizado.
+-   Arquivo ex070.py 
+    -   Tratamento de dados de uma loja.
+    -   Soma de valores, indicação de produtos acima de 1000.
+
     
