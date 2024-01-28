@@ -51,5 +51,10 @@
 -   Arquivo ex070.py 
     -   Tratamento de dados de uma loja.
     -   Soma de valores, indicação de produtos acima de 1000.
+-   Arquivo ex071.py iniciado e Terminado com sucesso 
+    -   Simulador de caixa eletronico
+    -   Recebe valor proposto pelo usuario
+    -   Efetua contagen de notas correspondente ao valor.
+    -   Termina dando total de notas.
 
     
