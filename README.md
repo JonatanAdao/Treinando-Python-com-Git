@@ -59,6 +59,6 @@
 ##  Conceitos de Tuplas 
 -    Dando inicio do arquivo ex072.py.
     -   trabalhando com tuplas onde o usuario digita um valor numerico e retorna por extenso.
-     
+    -   Arquivo ex072.py terminado
 
     

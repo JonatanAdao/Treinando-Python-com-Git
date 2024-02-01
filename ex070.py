@@ -18,7 +18,7 @@ while True:
     print('--'*20)
     totgasto += precoProduto
     cont += 1 
-    if precoProduto >= 1000:
+    if precoProduto > 1000:
         totMil += 1
     if cont == 1:
         maisBarato =  precoProduto
