@@ -56,5 +56,9 @@
     -   Recebe valor proposto pelo usuario
     -   Efetua contagen de notas correspondente ao valor.
     -   Termina dando total de notas.
+##  Conceitos de Tuplas 
+-    Dando inicio do arquivo ex072.py.
+    -   trabalhando com tuplas onde o usuario digita um valor numerico e retorna por extenso.
+     
 
     
