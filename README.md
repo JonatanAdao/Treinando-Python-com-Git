@@ -60,5 +60,10 @@
 -    Dando inicio do arquivo ex072.py.
     -   trabalhando com tuplas onde o usuario digita um valor numerico e retorna por extenso.
     -   Arquivo ex072.py terminado
-
+-   Arquivo ex073.py iniciado 
+    -   Contem uma tupla com tabela do campeonato 2023.
+    -   Indica os primeiro e os ultimos da tabela.
+    -   Da a posição de um time escolhido caso esteja na tabela. 
+    -   Finalizado.
+    
     
