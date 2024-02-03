@@ -65,5 +65,8 @@
     -   Indica os primeiro e os ultimos da tabela.
     -   Da a posição de um time escolhido caso esteja na tabela. 
     -   Finalizado.
-    
+-   Arquivo ex074.py 
+    -   Arquivo contendo uma tupla o modulo random
+    -   Gera ou mistura 5 numeros aleatariamente
+    -   Mostra o maior e o menor
     
