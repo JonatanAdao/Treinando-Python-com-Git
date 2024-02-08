@@ -68,5 +68,10 @@
 -   Arquivo ex074.py 
     -   Arquivo contendo uma tupla o modulo random
     -   Gera ou mistura 5 numeros aleatariamente
-    -   Mostra o maior e o menor
+    -   Mostra o maior e o menor.
+-   Arquivo ex075.py.
+    -   Arqruivo contem programa que le 4 número e guarda dentro de uma tupla.
+    -   Informa quantas vezes aparece o digito 9
+    -   Em qual posição aparece o digito 3
+    -   
     
