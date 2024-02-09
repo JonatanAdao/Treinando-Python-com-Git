@@ -73,5 +73,7 @@
     -   Arqruivo contem programa que le 4 número e guarda dentro de uma tupla.
     -   Informa quantas vezes aparece o digito 9
     -   Em qual posição aparece o digito 3
-    -   
+-   Arquivo ex075.py.
+    -   Criação de  uma tabela usando tuplas
+
     
