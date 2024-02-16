@@ -78,5 +78,9 @@
 -   Adcionando o ex077.py no README.md
     -   Programa mostra uma lista dentro de uma tupla.
     -   Mostra as vogais de cada palavra que esta dentro da tupla
+-   Adcionando o Arquivo ex078.py no README.md
+    -   Programa lê numeros aleatorios pelo teclado.
+    -   Seleciona o maior e o menor numero da lista.
+    -   Moatra a posição de anbos e quantas vezes eles repitirem. 
 
     
