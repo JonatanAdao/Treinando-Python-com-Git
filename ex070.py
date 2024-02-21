@@ -13,7 +13,7 @@ print('{:-^40}'.format(' LOJA KI BARATO '))
 print('-='*20)
 
 while True:
-    nomeProduto = str(input('Qual é onome do Produto?: '))
+    nomeProduto = str(input('Qual é o nome do Produto?: '))
     precoProduto = float(input('Digite o Preço do Produto: R$ '))
     print('--'*20)
     totgasto += precoProduto

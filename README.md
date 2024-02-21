@@ -78,9 +78,14 @@
 -   Adcionando o ex077.py no README.md
     -   Programa mostra uma lista dentro de uma tupla.
     -   Mostra as vogais de cada palavra que esta dentro da tupla
+##  Conceitos de Listas
 -   Adcionando o Arquivo ex078.py no README.md
     -   Programa lê numeros aleatorios pelo teclado.
     -   Seleciona o maior e o menor numero da lista.
-    -   Moatra a posição de anbos e quantas vezes eles repitirem. 
-
+    -   Mostra a posição de anbos e quantas vezes eles repitirem. 
+-   Arquivo ex079.py Sendo adcionado no README.md.
+    -   Scripte recebe varrios valores numericos guardando dentro de uma lista e organizando em ordem crescente.
+    -   Verifica se o usuario esta  digitando numeros e caso negativo ele deve inserir numeros.
+    -   Verifica se o numero inserido esta duplicado. 
+    -   Verifica se o usuario quer continuar.
     
