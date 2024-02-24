@@ -71,13 +71,13 @@
     -   Mostra o maior e o menor.
 -   Arquivo ex075.py.
     -   Arqruivo contem programa que le 4 número e guarda dentro de uma tupla.
-    -   Informa quantas vezes aparece o digito 9
-    -   Em qual posição aparece o digito 3
+    -   Informa quantas vezes aparece o digito 9.
+    -   Em qual posição aparece o digito 3.
 -   Arquivo ex076.py.
-    -   Criação de  uma tabela usando tuplas
--   Adcionando o ex077.py no README.md
+    -   Criação de  uma tabela usando tuplas.
+-   Adcionando o ex077.py no README.md.
     -   Programa mostra uma lista dentro de uma tupla.
-    -   Mostra as vogais de cada palavra que esta dentro da tupla
+    -   Mostra as vogais de cada palavra que esta dentro da tupla.
 ##  Conceitos de Listas
 -   Adcionando o Arquivo ex078.py no README.md
     -   Programa lê numeros aleatorios pelo teclado.
@@ -88,4 +88,8 @@
     -   Verifica se o usuario esta  digitando numeros e caso negativo ele deve inserir numeros.
     -   Verifica se o numero inserido esta duplicado. 
     -   Verifica se o usuario quer continuar.
+-   Arquivo ex080.py sendo Adcionado no README.md.
+    -   Arquivo possui uma lista vazia onde usuario pode adcionar 5 numeros.
+    -   O arquivo mostra a posição dos numeros adcionados. 
+    -   No final mostrando a lista completa e em ordem.
     
