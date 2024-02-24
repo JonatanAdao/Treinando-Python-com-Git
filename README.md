@@ -92,4 +92,8 @@
     -   Arquivo possui uma lista vazia onde usuario pode adcionar 5 numeros.
     -   O arquivo mostra a posição dos numeros adcionados. 
     -   No final mostrando a lista completa e em ordem.
-    
+-    Arquivo ex081.py Finalizado e Commitado.
+    -   Arquivo com alguns tratamento de erros 
+    -   Faz varedura pela lista porcurando o elemento de numero 5.
+    -   Mostra a lista em ordem decrescente. 
+    -   Mostra quantos numeros foram digitado  

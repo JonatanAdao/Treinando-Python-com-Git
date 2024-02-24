@@ -16,7 +16,7 @@ print(frase[15:]) # retorna = Python >> Na existencia só do 1° instante, inici
 print(frase[9::3]) # retorna = VePh >> Na não existencia do 2° instante, ocorrera a contagem do caracter informado ate o fim da string com o 3° indicado.
 print('\nAnalise\n')
 print(len(frase)) # retorna a contagem ou conta a string.
-print(frase.count('o')) # retorna a contagem do caracter indicado. 
+print(frase.count('o')) # retorna quantas vezes o caracter indicado aparece. 
 print(frase.count('o',0,14)) # retorna a contagem ja com fatiamaento.
 print(frase.find('deo')) # retorna em que momento começa o momento indicado.
 print(frase.find('Android')) # retorna o valor -1. Pois a string indicada é inexistente.
